@@ -27,6 +27,6 @@ b)	femur_COG_X - means the X coordinate of the center of gravity (COG) of the fe
 
 All the text files such as femur_COG_I_X_1.txt, femur_COG_I_Y_1.txt, etc were produced with the finite element software PAM-CRASH/PAMOPT from the company ESI, Paris, France (https://www.esi-group.com).  The text files contain a single result consisting of 0.12 seconds of the passive flexion cycle and therefore are of no real use but only to verify that the Grood and Suntay Matlab software code works.  
 
-Please acknowledge the project financed by the European Union Framework Programme 6 (FP6) entitled Decision Support Software for Orthopaedic Surgery  and Mr Corneliu T.C. Arsene if you are going to use this software anywhere in your work. The license for this software is a Creative Commons Attribution 4.0 International License (CCL).  This project has also a DOI :  
+Please acknowledge the project financed by the European Union Framework Programme 6 (FP6) entitled Decision Support Software for Orthopaedic Surgery  and Mr Corneliu T.C. Arsene if you are going to use this software anywhere in your work. The license for this software is a Creative Commons Attribution 4.0 International License (CCL).  This project has also a DOI :  10.6084/m9.figshare.6662969
 
 It is provided here with no warranty. Direct all questions and requests to galenpalimpsestproject@gmail.com.
